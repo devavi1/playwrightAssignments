@@ -1,0 +1,13 @@
+{
+  "name": "playwrightassignments",
+  "version": "1.0.0",
+  "description": "Learning playwright",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Avishek",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.1",
+    "@types/node": "^20.14.10"
+  }
+}
